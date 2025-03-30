@@ -90,19 +90,19 @@ import axios from "axios";
                 employers and job seekers. Built with a robust frontend running on ES6+ features and a scalable backend, this platform
                 offers an intuitive UX.`,
       technologies: ["React", "Tailwind Css", "Node.js", "Responsive Design"],
-      image: "/assets/hiring portal.png",
-      liveLink:
+      image:
         "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/hiring%20portal.png?raw=true",
+      liveLink: "https://hiring-portal-app.vercel.app/",
       githubLink: "https://github.com/Vishesh-dobhal/hiring-portal",
     },
     {
       title: "Weather forecast",
       description: `The Weather App is a sleek and user-friendly application that provides real-time weather updates, forecasts, and alerts
                             to help users plan their day effectively. Whether checking for rain before heading out or monitoring extreme weather.`,
-      image: "../src/assets/weather.png",
-      technologies: ["React", "Node.js", "Express"],
-      liveLink:
+      image:
         "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/weather.png?raw=true",
+      technologies: ["React", "Node.js", "Express"],
+      liveLink: "https://weathe-r-app.netlify.app/",
       githubLink: "https://github.com/Vishesh-dobhal/Weather-App",
     },
     {
@@ -112,10 +112,10 @@ import axios from "axios";
                             and hello to efficiency with TextEdits, the ultimate text editing app designed to streamline your
                             writing process like
                             never before.`,
-      image: "../src/assets/TextEDITS1.png",
-      technologies: ["React", "Tailwind Css"],
-      liveLink:
+      image:
         "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/TextEDITS1.png?raw=true",
+      technologies: ["React", "Tailwind Css"],
+      liveLink: "https://text-edits.netlify.app/",
       githubLink: "https://github.com/Vishesh-dobhal/TextEdits",
     },
   ];
