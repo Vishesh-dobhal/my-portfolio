@@ -89,14 +89,10 @@ import axios from "axios";
       description: `The Hiring Portal is a modern and efficient job recruitment platform designed to streamline the hiring process for both
                 employers and job seekers. Built with a robust frontend running on ES6+ features and a scalable backend, this platform
                 offers an intuitive UX.`,
-      technologies: [
-        "React",
-        "Tailwind Css",
-        "Node.js",
-        "Responsive Design",
-      ],
-      image:'../src/assets/hiring portal.png',
-      liveLink: "https://hiring-portal-app.vercel.app/",
+      technologies: ["React", "Tailwind Css", "Node.js", "Responsive Design"],
+      image: "/assets/hiring portal.png",
+      liveLink:
+        "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/hiring%20portal.png?raw=true",
       githubLink: "https://github.com/Vishesh-dobhal/hiring-portal",
     },
     {
@@ -105,7 +101,8 @@ import axios from "axios";
                             to help users plan their day effectively. Whether checking for rain before heading out or monitoring extreme weather.`,
       image: "../src/assets/weather.png",
       technologies: ["React", "Node.js", "Express"],
-      liveLink: "https://weathe-r-app.netlify.app/",
+      liveLink:
+        "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/weather.png?raw=true",
       githubLink: "https://github.com/Vishesh-dobhal/Weather-App",
     },
     {
@@ -117,7 +114,8 @@ import axios from "axios";
                             never before.`,
       image: "../src/assets/TextEDITS1.png",
       technologies: ["React", "Tailwind Css"],
-      liveLink: "https://text-edits.netlify.app/",
+      liveLink:
+        "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/TextEDITS1.png?raw=true",
       githubLink: "https://github.com/Vishesh-dobhal/TextEdits",
     },
   ];
@@ -336,7 +334,7 @@ import axios from "axios";
               <div className="relative">
                 <div className="absolute -inset-4 bg-gradient-to-r from-primary/20 to-blue-500/20 rounded-lg blur-lg"></div>
                 <img
-                  src="../src/assets/software-dev.png"
+                  src="https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/software-dev.png?raw=true"
                   alt="About Vasu Dobal"
                   width={500}
                   height={400}
