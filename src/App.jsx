@@ -93,7 +93,7 @@ import axios from "axios";
         "Bootstrap",
         "Responsive Design, python anywhere",
       ],
-      image: "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/tweet.png?raw=true",
+      image: "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/tweet.png",
       liveLink: "https://vaishdobhal.pythonanywhere.com/tweet/",
       githubLink: "https://github.com/Vishesh-dobhal/djangoproject.git",
     },
