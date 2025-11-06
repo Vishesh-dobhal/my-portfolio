@@ -85,17 +85,16 @@ import axios from "axios";
   // Project data
   const projects = [
     {
-      title: "Your Tweets",
-      description: `Your Tweets is a microblogging platform built with Django that allows users to register, log in, and post short text updates. Users can manage their tweets and view them on personal profile pages. The app uses Django’s templating engine with Bootstrap for a clean, responsive UI, and follows the MVC pattern for organized and maintainable code..`,
+      title: "Student Management",
+      description: `A modern web application built with Next.js for managing student records efficiently. It allows users to add, edit, view, and delete student details through a clean and responsive dashboard. Designed for simplicity and performance, this app helps schools or institutions organize student data seamlessly.`,
       technologies: [
-        "Python",
-        "Django",
-        "Bootstrap",
-        "python anywhere",
+        "Next.js",
+        "Tailwind css",
+        "Clerk Auth",
       ],
-      image: "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/tweet.png",
-      liveLink: "https://vaishdobhal.pythonanywhere.com/tweet/",
-      githubLink: "https://github.com/Vishesh-dobhal/djangoproject.git",
+      image: "https://drive.google.com/file/d/1649fRJ7bTRq-OPR-bD-mfU0g3ymoNrWz/view?usp=sharing",
+      liveLink: "https://student-management-app-beige.vercel.app/",
+      githubLink: "https://github.com/Vishesh-dobhal/student-management-app",
     },
     {
       title: "Hiring Portal",
