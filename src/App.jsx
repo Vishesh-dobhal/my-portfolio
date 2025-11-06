@@ -92,7 +92,7 @@ import axios from "axios";
         "Tailwind css",
         "Clerk Auth",
       ],
-      image: "https://ibb.co/gb3NrGLs",
+      image: "https://github.com/Vishesh-dobhal/my-portfolio/blob/main/src/assets/student%20mangement.png",
       liveLink: "https://student-management-app-beige.vercel.app/",
       githubLink: "https://github.com/Vishesh-dobhal/student-management-app",
     },
